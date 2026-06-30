@@ -1,0 +1,10 @@
+data/
+*.csv
+!outputs/train_processed.csv
+!outputs/val_processed.csv
+!outputs/test_processed.csv
+__pycache__/
+*.pyc
+venv/
+.ipynb_checkpoints/
+.DS_Store
